@@ -1,0 +1,14 @@
+D:\IT\Repository\Ray and Lie's algorithm\Ray and Lie's algorithm\bin\Debug\net6.0\Ray and Lie's algorithm.exe
+D:\IT\Repository\Ray and Lie's algorithm\Ray and Lie's algorithm\bin\Debug\net6.0\Ray and Lie's algorithm.deps.json
+D:\IT\Repository\Ray and Lie's algorithm\Ray and Lie's algorithm\bin\Debug\net6.0\Ray and Lie's algorithm.runtimeconfig.json
+D:\IT\Repository\Ray and Lie's algorithm\Ray and Lie's algorithm\bin\Debug\net6.0\Ray and Lie's algorithm.dll
+D:\IT\Repository\Ray and Lie's algorithm\Ray and Lie's algorithm\bin\Debug\net6.0\Ray and Lie's algorithm.pdb
+D:\IT\Repository\Ray and Lie's algorithm\Ray and Lie's algorithm\obj\Debug\net6.0\Ray and Lie's algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Repository\Ray and Lie's algorithm\Ray and Lie's algorithm\obj\Debug\net6.0\Ray and Lie's algorithm.AssemblyInfoInputs.cache
+D:\IT\Repository\Ray and Lie's algorithm\Ray and Lie's algorithm\obj\Debug\net6.0\Ray and Lie's algorithm.AssemblyInfo.cs
+D:\IT\Repository\Ray and Lie's algorithm\Ray and Lie's algorithm\obj\Debug\net6.0\Ray and Lie's algorithm.csproj.CoreCompileInputs.cache
+D:\IT\Repository\Ray and Lie's algorithm\Ray and Lie's algorithm\obj\Debug\net6.0\Ray and Lie's algorithm.dll
+D:\IT\Repository\Ray and Lie's algorithm\Ray and Lie's algorithm\obj\Debug\net6.0\refint\Ray and Lie's algorithm.dll
+D:\IT\Repository\Ray and Lie's algorithm\Ray and Lie's algorithm\obj\Debug\net6.0\Ray and Lie's algorithm.pdb
+D:\IT\Repository\Ray and Lie's algorithm\Ray and Lie's algorithm\obj\Debug\net6.0\Ray and Lie's algorithm.genruntimeconfig.cache
+D:\IT\Repository\Ray and Lie's algorithm\Ray and Lie's algorithm\obj\Debug\net6.0\ref\Ray and Lie's algorithm.dll

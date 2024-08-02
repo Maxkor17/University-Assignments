@@ -1,0 +1,28 @@
+G:\IT\Repository\University\Reverse Placement\Reverse Placement\bin\Debug\net8.0\Reverse Elemens Placement.exe
+G:\IT\Repository\University\Reverse Placement\Reverse Placement\bin\Debug\net8.0\Reverse Elemens Placement.deps.json
+G:\IT\Repository\University\Reverse Placement\Reverse Placement\bin\Debug\net8.0\Reverse Elemens Placement.runtimeconfig.json
+G:\IT\Repository\University\Reverse Placement\Reverse Placement\bin\Debug\net8.0\Reverse Elemens Placement.dll
+G:\IT\Repository\University\Reverse Placement\Reverse Placement\bin\Debug\net8.0\Reverse Elemens Placement.pdb
+G:\IT\Repository\University\Reverse Placement\Reverse Placement\obj\Debug\net8.0\Reverse Elemens Placement.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\Repository\University\Reverse Placement\Reverse Placement\obj\Debug\net8.0\Reverse Elemens Placement.AssemblyInfoInputs.cache
+G:\IT\Repository\University\Reverse Placement\Reverse Placement\obj\Debug\net8.0\Reverse Elemens Placement.AssemblyInfo.cs
+G:\IT\Repository\University\Reverse Placement\Reverse Placement\obj\Debug\net8.0\Reverse Elemens Placement.csproj.CoreCompileInputs.cache
+G:\IT\Repository\University\Reverse Placement\Reverse Placement\obj\Debug\net8.0\Reverse Elemens Placement.dll
+G:\IT\Repository\University\Reverse Placement\Reverse Placement\obj\Debug\net8.0\refint\Reverse Elemens Placement.dll
+G:\IT\Repository\University\Reverse Placement\Reverse Placement\obj\Debug\net8.0\Reverse Elemens Placement.pdb
+G:\IT\Repository\University\Reverse Placement\Reverse Placement\obj\Debug\net8.0\Reverse Elemens Placement.genruntimeconfig.cache
+G:\IT\Repository\University\Reverse Placement\Reverse Placement\obj\Debug\net8.0\ref\Reverse Elemens Placement.dll
+G:\IT\Repository\University\Reverse Elemens Placement\Reverse Placement\bin\Debug\net8.0\Reverse Elemens Placement.exe
+G:\IT\Repository\University\Reverse Elemens Placement\Reverse Placement\bin\Debug\net8.0\Reverse Elemens Placement.deps.json
+G:\IT\Repository\University\Reverse Elemens Placement\Reverse Placement\bin\Debug\net8.0\Reverse Elemens Placement.runtimeconfig.json
+G:\IT\Repository\University\Reverse Elemens Placement\Reverse Placement\bin\Debug\net8.0\Reverse Elemens Placement.dll
+G:\IT\Repository\University\Reverse Elemens Placement\Reverse Placement\bin\Debug\net8.0\Reverse Elemens Placement.pdb
+G:\IT\Repository\University\Reverse Elemens Placement\Reverse Placement\obj\Debug\net8.0\Reverse Elemens Placement.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\Repository\University\Reverse Elemens Placement\Reverse Placement\obj\Debug\net8.0\Reverse Elemens Placement.AssemblyInfoInputs.cache
+G:\IT\Repository\University\Reverse Elemens Placement\Reverse Placement\obj\Debug\net8.0\Reverse Elemens Placement.AssemblyInfo.cs
+G:\IT\Repository\University\Reverse Elemens Placement\Reverse Placement\obj\Debug\net8.0\Reverse Elemens Placement.csproj.CoreCompileInputs.cache
+G:\IT\Repository\University\Reverse Elemens Placement\Reverse Placement\obj\Debug\net8.0\Reverse Elemens Placement.dll
+G:\IT\Repository\University\Reverse Elemens Placement\Reverse Placement\obj\Debug\net8.0\refint\Reverse Elemens Placement.dll
+G:\IT\Repository\University\Reverse Elemens Placement\Reverse Placement\obj\Debug\net8.0\Reverse Elemens Placement.pdb
+G:\IT\Repository\University\Reverse Elemens Placement\Reverse Placement\obj\Debug\net8.0\Reverse Elemens Placement.genruntimeconfig.cache
+G:\IT\Repository\University\Reverse Elemens Placement\Reverse Placement\obj\Debug\net8.0\ref\Reverse Elemens Placement.dll

@@ -1,0 +1,42 @@
+D:\IT\Repository\Elements_Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.exe
+D:\IT\Repository\Elements_Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.deps.json
+D:\IT\Repository\Elements_Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.runtimeconfig.json
+D:\IT\Repository\Elements_Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.dll
+D:\IT\Repository\Elements_Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.pdb
+D:\IT\Repository\Elements_Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Repository\Elements_Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.AssemblyInfoInputs.cache
+D:\IT\Repository\Elements_Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.AssemblyInfo.cs
+D:\IT\Repository\Elements_Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.csproj.CoreCompileInputs.cache
+D:\IT\Repository\Elements_Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.dll
+D:\IT\Repository\Elements_Permutation\Elements_Permutation\obj\Debug\net6.0\refint\Elements_Permutation.dll
+D:\IT\Repository\Elements_Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.pdb
+D:\IT\Repository\Elements_Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.genruntimeconfig.cache
+D:\IT\Repository\Elements_Permutation\Elements_Permutation\obj\Debug\net6.0\ref\Elements_Permutation.dll
+G:\IT\Repository\Elements Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.exe
+G:\IT\Repository\Elements Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.deps.json
+G:\IT\Repository\Elements Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.runtimeconfig.json
+G:\IT\Repository\Elements Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.dll
+G:\IT\Repository\Elements Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.pdb
+G:\IT\Repository\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\Repository\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.AssemblyInfoInputs.cache
+G:\IT\Repository\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.AssemblyInfo.cs
+G:\IT\Repository\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.csproj.CoreCompileInputs.cache
+G:\IT\Repository\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.dll
+G:\IT\Repository\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\refint\Elements_Permutation.dll
+G:\IT\Repository\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.pdb
+G:\IT\Repository\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.genruntimeconfig.cache
+G:\IT\Repository\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\ref\Elements_Permutation.dll
+G:\IT\Repository\University\Elements Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.exe
+G:\IT\Repository\University\Elements Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.deps.json
+G:\IT\Repository\University\Elements Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.runtimeconfig.json
+G:\IT\Repository\University\Elements Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.dll
+G:\IT\Repository\University\Elements Permutation\Elements_Permutation\bin\Debug\net6.0\Elements_Permutation.pdb
+G:\IT\Repository\University\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\Repository\University\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.AssemblyInfoInputs.cache
+G:\IT\Repository\University\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.AssemblyInfo.cs
+G:\IT\Repository\University\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.csproj.CoreCompileInputs.cache
+G:\IT\Repository\University\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.dll
+G:\IT\Repository\University\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\refint\Elements_Permutation.dll
+G:\IT\Repository\University\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.pdb
+G:\IT\Repository\University\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\Elements_Permutation.genruntimeconfig.cache
+G:\IT\Repository\University\Elements Permutation\Elements_Permutation\obj\Debug\net6.0\ref\Elements_Permutation.dll

@@ -1,0 +1,28 @@
+D:\IT\Repository\Frequency_Response\Frequency_Response\bin\Debug\net6.0\Frequency_Response.exe
+D:\IT\Repository\Frequency_Response\Frequency_Response\bin\Debug\net6.0\Frequency_Response.deps.json
+D:\IT\Repository\Frequency_Response\Frequency_Response\bin\Debug\net6.0\Frequency_Response.runtimeconfig.json
+D:\IT\Repository\Frequency_Response\Frequency_Response\bin\Debug\net6.0\Frequency_Response.dll
+D:\IT\Repository\Frequency_Response\Frequency_Response\bin\Debug\net6.0\Frequency_Response.pdb
+D:\IT\Repository\Frequency_Response\Frequency_Response\obj\Debug\net6.0\Frequency_Response.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Repository\Frequency_Response\Frequency_Response\obj\Debug\net6.0\Frequency_Response.AssemblyInfoInputs.cache
+D:\IT\Repository\Frequency_Response\Frequency_Response\obj\Debug\net6.0\Frequency_Response.AssemblyInfo.cs
+D:\IT\Repository\Frequency_Response\Frequency_Response\obj\Debug\net6.0\Frequency_Response.csproj.CoreCompileInputs.cache
+D:\IT\Repository\Frequency_Response\Frequency_Response\obj\Debug\net6.0\Frequency_Response.dll
+D:\IT\Repository\Frequency_Response\Frequency_Response\obj\Debug\net6.0\refint\Frequency_Response.dll
+D:\IT\Repository\Frequency_Response\Frequency_Response\obj\Debug\net6.0\Frequency_Response.pdb
+D:\IT\Repository\Frequency_Response\Frequency_Response\obj\Debug\net6.0\Frequency_Response.genruntimeconfig.cache
+D:\IT\Repository\Frequency_Response\Frequency_Response\obj\Debug\net6.0\ref\Frequency_Response.dll
+G:\IT\Repository\Frequency Response\Frequency_Response\bin\Debug\net6.0\Frequency_Response.exe
+G:\IT\Repository\Frequency Response\Frequency_Response\bin\Debug\net6.0\Frequency_Response.deps.json
+G:\IT\Repository\Frequency Response\Frequency_Response\bin\Debug\net6.0\Frequency_Response.runtimeconfig.json
+G:\IT\Repository\Frequency Response\Frequency_Response\bin\Debug\net6.0\Frequency_Response.dll
+G:\IT\Repository\Frequency Response\Frequency_Response\bin\Debug\net6.0\Frequency_Response.pdb
+G:\IT\Repository\Frequency Response\Frequency_Response\obj\Debug\net6.0\Frequency_Response.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\Repository\Frequency Response\Frequency_Response\obj\Debug\net6.0\Frequency_Response.AssemblyInfoInputs.cache
+G:\IT\Repository\Frequency Response\Frequency_Response\obj\Debug\net6.0\Frequency_Response.AssemblyInfo.cs
+G:\IT\Repository\Frequency Response\Frequency_Response\obj\Debug\net6.0\Frequency_Response.csproj.CoreCompileInputs.cache
+G:\IT\Repository\Frequency Response\Frequency_Response\obj\Debug\net6.0\Frequency_Response.dll
+G:\IT\Repository\Frequency Response\Frequency_Response\obj\Debug\net6.0\refint\Frequency_Response.dll
+G:\IT\Repository\Frequency Response\Frequency_Response\obj\Debug\net6.0\Frequency_Response.pdb
+G:\IT\Repository\Frequency Response\Frequency_Response\obj\Debug\net6.0\Frequency_Response.genruntimeconfig.cache
+G:\IT\Repository\Frequency Response\Frequency_Response\obj\Debug\net6.0\ref\Frequency_Response.dll

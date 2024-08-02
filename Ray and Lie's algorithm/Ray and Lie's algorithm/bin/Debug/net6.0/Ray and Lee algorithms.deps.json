@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ray and Lee algorithms/1.0.0": {
+        "runtime": {
+          "Ray and Lee algorithms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ray and Lee algorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

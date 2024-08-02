@@ -1,0 +1,10 @@
+G:\IT\Repository\Сomponent compression\Сomponent compression\obj\Debug\Сomponent compression.csproj.AssemblyReference.cache
+G:\IT\Repository\Сomponent compression\Сomponent compression\obj\Debug\Сomponent_compression.Form1.resources
+G:\IT\Repository\Сomponent compression\Сomponent compression\obj\Debug\Сomponent_compression.Properties.Resources.resources
+G:\IT\Repository\Сomponent compression\Сomponent compression\obj\Debug\Сomponent compression.csproj.GenerateResource.cache
+G:\IT\Repository\Сomponent compression\Сomponent compression\obj\Debug\Сomponent compression.csproj.CoreCompileInputs.cache
+G:\IT\Repository\Сomponent compression\Сomponent compression\bin\Debug\Сomponent compression.exe.config
+G:\IT\Repository\Сomponent compression\Сomponent compression\bin\Debug\Сomponent compression.exe
+G:\IT\Repository\Сomponent compression\Сomponent compression\bin\Debug\Сomponent compression.pdb
+G:\IT\Repository\Сomponent compression\Сomponent compression\obj\Debug\Сomponent compression.exe
+G:\IT\Repository\Сomponent compression\Сomponent compression\obj\Debug\Сomponent compression.pdb
